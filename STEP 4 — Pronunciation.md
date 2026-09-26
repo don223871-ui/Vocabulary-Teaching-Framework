@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 4 — Pronunciation"
+permalink: /STEP 4 — Pronunciation/
+---
+
 # 🟦 STEP 4 — Pronunciation
 ## 🎯 هدف کلی
 
