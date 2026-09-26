@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 12 — TRANSFER & PRODUCTIVE USE"
+permalink: /STEP 12 — TRANSFER & PRODUCTIVE USE/
+---
+
 # 🟩 STEP 12 — TRANSFER & PRODUCTIVE USE
 
 ## 🎯 هدف کلی
