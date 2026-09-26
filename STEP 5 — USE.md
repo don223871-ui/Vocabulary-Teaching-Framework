@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 5 — USE"
+permalink: /STEP 5 — USE/
+---
+
 # 🟩 STEP 5 — USE
 ## 🎯 هدف کلی
 
