@@ -1,3 +1,9 @@
+---
+layout: default
+title: "How to Teach a New Vocabulary"
+permalink: /How to Teach a New Vocabulary/
+---
+
 # 🍽️ How to Teach a New Vocabulary
 ## Example: **picky eater**
 
