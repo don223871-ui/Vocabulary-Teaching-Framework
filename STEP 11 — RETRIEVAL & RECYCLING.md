@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 11 — RETRIEVAL & RECYCLING"
+permalink: /STEP 11 — RETRIEVAL & RECYCLING/
+---
+
 # 🟫 STEP 11 — RETRIEVAL & RECYCLING
 ## 🎯 هدف کلی
 
