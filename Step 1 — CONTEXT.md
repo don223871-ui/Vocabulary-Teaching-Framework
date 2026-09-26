@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Step 1 — CONTEXT"
+permalink: /step-01-context/
 ---
 
 # 📚 New Vocabulary Teaching Framework
