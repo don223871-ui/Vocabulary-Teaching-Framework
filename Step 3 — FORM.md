@@ -67,8 +67,9 @@ a picky eater
 > She is a picky eater.
 
 > My nephew is a picky eater.
-> 
+
 #### Pattern 2 — با فعل‌های مختلف برای توصیف رفتار
+
 ```
 Subject
    ↓
@@ -77,10 +78,11 @@ verb
 picky eater
 ```
 مثلاً:
-
 > He became a picky eater.
 
 > She has always been a picky eater.
+
+
 ### 🌳 3.4 Inflection / Variations
 تغییر در eater
 ```
