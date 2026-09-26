@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 9 — CONTROLLED PRACTICE"
+permalink: /STEP 9 — CONTROLLED PRACTICE/
+---
+
 # 🟪 STEP 9 — CONTROLLED PRACTICE
 ## 🎯 هدف کلی
 
