@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Step 1 — CONTEXT"
+---
+
 # 📚 New Vocabulary Teaching Framework
 ## Step 1 — CONTEXT
 ### Target Vocabulary: **picky eater**
