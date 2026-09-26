@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 8 — CONTRAST & BOUNDARIES"
+permalink: /STEP 8 — CONTRAST & BOUNDARIES/
+---
+
 # 🟥 STEP 8 — CONTRAST & BOUNDARIES
 ## 🎯 هدف کلی
 
