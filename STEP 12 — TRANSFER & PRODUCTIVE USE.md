@@ -85,4 +85,5 @@ permalink: /STEP 12 — TRANSFER & PRODUCTIVE USE/
 ├── آگاهانه و نه تصادفی انتخاب می‌شود.
 ├── از نظر Meaning / Form / Collocation / Register کنترل می‌شود.
 └── از **Vocabulary Being Learned**
-    └── به **Vocabulary Being Used** تبدیل می‌شود.
+    └
+```
