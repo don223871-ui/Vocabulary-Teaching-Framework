@@ -118,21 +118,20 @@ picky eater
 
 بنابراین ساختار را باید به‌صورت یک **Adjective + Noun combination** شناخت، نه به‌عنوان یک واژه منفرد.
 ### 🎯 Step 3 — Expected Learning Outcome
-```
-picky eater
-│
-├── 🧩 Recognize the Form
-│ └── تشخیص دهد که عبارت از adjective + noun ساخته شده است.
-│
-├── 🔤 Understand Word Formation
-│ └── رابطه eat → eater را درک کند.
-│
-├── 🏗️ Use the Grammatical Pattern
-│ └── بتواند الگوهایی مثل be a picky eater را به کار ببرد.
-│
-├── 🔄 Handle Variations
-│ └── شکل‌هایی مثل picky eaters و تغییرات فعل be را بشناسد.
-│
-└── 🧠 See the Phrase as a Unit
-└── picky eater را به‌عنوان یک ترکیب طبیعی Adjective + Noun بشناسد.
-```
+
+### **picky eater — Form**
+
+- 🧩 **Recognize the Form**
+  - تشخیص دهد که عبارت از **Adjective + Noun** ساخته شده است.
+
+- 🔤 **Understand Word Formation**
+  - رابطه **eat → eater** را درک کند.
+
+- 🏗️ **Use the Grammatical Pattern**
+  - بتواند الگوهایی مثل **be a picky eater** را به کار ببرد.
+
+- 🔄 **Handle Variations**
+  - شکل‌هایی مثل **picky eaters** و تغییرات فعل **be** را بشناسد.
+
+- 🧠 **See the Phrase as a Unit**
+  - **picky eater** را به‌عنوان یک ترکیب طبیعی **Adjective + Noun** بشناسد.
