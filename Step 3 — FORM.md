@@ -52,8 +52,10 @@ eater
 و:
 
 > picky + eater = a person who is selective about food
+
 ### 🌳 3.3 Grammatical Pattern
 Pattern 1 — بعد از فعل be
+
 ```
 Subject
    ↓
@@ -61,9 +63,11 @@ be
    ↓
 a picky eater
 ```
+
 > She is a picky eater.
 
 > My nephew is a picky eater.
+> 
 #### Pattern 2 — با فعل‌های مختلف برای توصیف رفتار
 ```
 Subject
