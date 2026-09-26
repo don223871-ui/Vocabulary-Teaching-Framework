@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 10 — PERSONALIZATION"
+permalink: /STEP 10 — PERSONALIZATION/
+---
+
 # 🟧 STEP 10 — PERSONALIZATION
 ## 🎯 هدف کلی
 
