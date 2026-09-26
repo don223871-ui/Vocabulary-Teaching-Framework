@@ -75,15 +75,13 @@ permalink: /STEP 12 — TRANSFER & PRODUCTIVE USE/
 
 ---
 
-## 🎯 خروجی نهایی Step 12
-### picky eater
-```
-│
-├── در Speaking قابل استفاده است.
-├── در Writing در Context مناسب قابل استفاده است.
-├── در موقعیت جدید قابل انتقال است.
-├── آگاهانه و نه تصادفی انتخاب می‌شود.
-├── از نظر Meaning / Form / Collocation / Register کنترل می‌شود.
-└── از **Vocabulary Being Learned**
-    └
-```
+## 🎯 خروجی نه## 🎯 خروجی نهایی Step 12
+### **picky eater**
+
+- در **Speaking** قابل استفاده است.
+- در **Writing** در Context مناسب قابل استفاده است.
+- در موقعیت جدید قابل انتقال است.
+- آگاهانه و نه تصادفی انتخاب می‌شود.
+- از نظر **Meaning / Form / Collocation / Register** کنترل می‌شود.
+- از **Vocabulary Being Learned**
+  → به **Vocabulary Being Used** تبدیل می‌شود.
