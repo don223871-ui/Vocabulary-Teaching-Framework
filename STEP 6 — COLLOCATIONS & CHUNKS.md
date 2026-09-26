@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 6 — COLLOCATIONS & CHUNKS"
+permalink: /STEP 6 — COLLOCATIONS & CHUNKS/
+---
+
 # 🟨 STEP 6 — COLLOCATIONS & CHUNKS
 ## 🎯 هدف کلی
 
