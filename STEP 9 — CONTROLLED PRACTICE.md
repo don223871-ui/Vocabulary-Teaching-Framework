@@ -64,7 +64,7 @@ permalink: /STEP 9 — CONTROLLED PRACTICE/
 
 ---
 
-## 🎯 خروج Step 9
+## 🎯 خروجی Step 9
 
 زبان‌آموز باید بتواند:
 ### **picky eater — Controlled Practice**
