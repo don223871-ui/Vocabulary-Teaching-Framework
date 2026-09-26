@@ -1,3 +1,9 @@
+---
+layout: default
+title: "STEP 7 — NATURAL EXAMPLES"
+permalink: /STEP 7 — NATURAL EXAMPLES/
+---
+
 # 🟦 STEP 7 — NATURAL EXAMPLES
 ## 🎯 هدف کلی
 
