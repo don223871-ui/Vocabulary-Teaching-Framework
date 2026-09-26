@@ -29,8 +29,8 @@ picky + eater
   ↓       ↓
  adjective + noun
  ```
- ### 🌳 3.2 Word Formation
-```
+🌳 3.2 Word Formation
+
 eater
 │
 ├── eat
@@ -38,7 +38,7 @@ eater
 │
 └── -er
 └── سازنده اسمِ شخص انجام‌دهنده عمل
-```
+
 ```
 eat
  ↓
