@@ -74,8 +74,7 @@ permalink: /STEP 12 — TRANSFER & PRODUCTIVE USE/
 → **Independent Productive Use**
 
 ---
-
-## 🎯 خروجی نه## 🎯 خروجی نهایی Step 12
+## 🎯 خروجی نهایی Step 12
 ### **picky eater**
 
 - در **Speaking** قابل استفاده است.
