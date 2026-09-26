@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Step 3 — FORM"
+permalink: /Step 3 — FORM/
+---
+
 # 📚 Step 3 — FORM
 ## Target Vocabulary: **picky eater**
 
