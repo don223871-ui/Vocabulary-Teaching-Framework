@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Step 2 — MEANING"
+permalink: /Step 2 — MEANING/
+---
+
 # 📚 New Vocabulary Teaching Framework
 ## Step 2 — MEANING
 ### Target Vocabulary: **picky eater**
